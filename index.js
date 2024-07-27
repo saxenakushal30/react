@@ -7,5 +7,5 @@ root.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
+  //showing output 2 times for performance purposes
 );
-
